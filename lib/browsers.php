@@ -26,6 +26,7 @@ $knownBrowsers = array
 	"Iceweasel" => "Iceweasel",
 	"MozillaDeveloperPreview" => "Firefox (Development build)",
 	"Firefox" => "Firefox",
+	"Waterfox" => "Waterfox",
 	"dwb" => "DWB",
 	"Chrome" => "Chrome",
 	"Android" => "Android",
