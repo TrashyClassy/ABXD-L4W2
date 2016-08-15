@@ -1,6 +1,9 @@
 # AcmlmBoard XD
 
 The new and secure AcmlmBoard-like board.
+This repository has been created to document changes made in my forum,
+and to more easily manage the repository and code changes implemented
+on the site. If you need a demo go to http://l4w2-gamers.ml/ .
 
 ## Warning
 
@@ -9,7 +12,7 @@ repository. This version of ABXD may have serious vulnerabilites and
 might not work at all.
 
 If you are interested more stable software, you may want to download
-[ABXD 2.2.6](http://abxd.dirbaio.net/?page=downloads). It's known to
+[ABXD 3.0](http://github.com/ABXD/ABXD). It's known to
 work almost everywhere.
 
 ## Installation
@@ -20,9 +23,9 @@ ABXD in your server and follow the installer. It couldn't be easier.
 
 ## Bugs
 
-Checkout [ABXD Bug Reports](http://abxd.dirbaio.net/?page=forum&id=6)
-forum. Feel free to report non-security bugs. If you have security bugs,
-contact [Dirbaio](https://github.com/Dirbaio).
+Checkout [L4W2 Site Discussion](http://l4w2-gamers.ml/?page=forum&id=8)
+forum. Feel free to report all bugs. Security bugs should be handled
+in PMs. Regular testing is done to make sure everything is secure.
 
 ## Contributions
 
